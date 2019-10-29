@@ -1,0 +1,16 @@
+{
+	"name": "mattreid-dev-node",
+	"version": "1.0.0",
+	"description": "A simple webserver with Mustache template rendering.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "Matt Reid (mattreid.dev)",
+	"license": "ISC",
+	"dependencies": {
+		"fs-extra": "^8.1.0",
+		"mustache": "^3.1.0"
+	}
+}

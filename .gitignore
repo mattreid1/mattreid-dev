@@ -1,4 +1,6 @@
 **/node_modules/
+**/.DS_Store
 build/
 data.json
+data.*.json
 pinbase.config.json
